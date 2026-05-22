@@ -124,7 +124,7 @@ O protótipo foi desenvolvido utilizando a ferramenta Figma para simular a naveg
 
 ## Login para Computador
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dfabacf3-746c-4005-96e5-9b842bca9028" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dfabacf3-746c-4005-96e5-9b842bca9028" />
 
 
 ## Login para Celular
@@ -139,7 +139,17 @@ O protótipo foi desenvolvido utilizando a ferramenta Figma para simular a naveg
 
 O cronograma do projeto foi estruturado utilizando a plataforma ClickUp para gerenciamento das tarefas e prazos da equipe.
 
-<img width="300" height="300" alt="Captura de tela 2026-03-13 103629" src="https://github.com/user-attachments/assets/81aac485-398a-4b25-bd9e-4baf8c04d85a" />
+---
+
+### Sprint 1
+
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/e4cb2cdc-9a7c-4db3-a560-abcd1ac1295b" />
+
+---
+
+### Sprint 2 e 3
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5cb0f4f8-6bfe-4dc4-8f1d-b188c9e72408" />
 
 
 ---
