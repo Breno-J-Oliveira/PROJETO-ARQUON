@@ -14,7 +14,7 @@
 
 # Slides
 
-[![Abrir no Canva](https://img.shields.io/badge/Abrir%20no-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAHDvlMZg-s/SGSlIG-lKRAg0JDPq9HdLg/edit?utm_content=DAHDvlMZg-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Abrir Slides](https://chat.google.com/room/AAQABrSevnc/lauvh3VEmBE/lauvh3VEmBE?cls=10)
 
 ---
 
