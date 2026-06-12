@@ -63,9 +63,13 @@
 
 ## SPRINT 3
 
-[![PHP](https://img.shields.io/badge/PHP-641838?style=for-the-badge)](#81-definição-de-php)
-[![COMPOSER](https://img.shields.io/badge/COMPOSER-641838?style=for-the-badge)](#811-definição-de-composer)
+[![PHP](https://img.shields.io/badge/PHP-641838?style=for-the-badge)](#definição-de-php)
+[![COMPOSER](https://img.shields.io/badge/COMPOSER-641838?style=for-the-badge)](#definição-de-composer)
 [![BACKEND](https://img.shields.io/badge/BACKEND-641838?style=for-the-badge)](#sprint-3)
+[![FUNCIONALIDADES](https://img.shields.io/badge/FUNCIONALIDADES%20DO%20SITE-641838?style=for-the-badge)](#funcionalidades-do-site)
+[![TELAS](https://img.shields.io/badge/TELAS%20DO%20SISTEMA-641838?style=for-the-badge)](#9-telas-do-sistema)
+[![NÍVEIS DE ACESSO](https://img.shields.io/badge/NÍVEIS%20DE%20ACESSO-641838?style=for-the-badge)](#11-níveis-de-acesso)
+[![CREDENCIAIS](https://img.shields.io/badge/CREDENCIAIS%20DE%20TESTE-641838?style=for-the-badge)](#12-credenciais-de-teste)
 
 </div>
 
