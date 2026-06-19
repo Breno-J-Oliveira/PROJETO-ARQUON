@@ -6,110 +6,100 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-00C853?style=for-the-badge" alt="Status: Concluído">
-  <img src="https://img.shields.io/badge/VERSÃO-v1.0-FFD700?style=for-the-badge" alt="Versão v1.0">
+  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-00C853?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/VERSÃO-v1.0-FFD700?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Apache-2.4-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache-2.4-D22128?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 
-<br>
+---
 
-<h2 align="center">🌐 Acesse o Site Online</h2>
+<h2 align="center">🌐 Acesse Agora</h2>
 
 <p align="center">
-  <a href="https://SEU-SITE.infinityfreeapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20ACESSAR%20O%20SITE%20AO%20VIVO-E7B93F?style=for-the-badge&logoColor=000000&labelColor=0C0716" alt="Acessar o Site" height="55">
+  <a href="http://arquon.infinityfree.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🔓%20ENTRAR%20NO%20COFRE%20ARQON-E7B93F?style=for-the-badge&logoColor=000000&labelColor=0C0716" alt="Acessar o Site" height="55">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://SEU-SITE.infinityfreeapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hospedado%20em-InfinityFree-29ABE2?style=for-the-badge&logo=icloud&logoColor=white" alt="InfinityFree">
+  <a href="http://arquon.infinityfree.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Site%20ao%20Vivo-E7B93F?style=for-the-badge&labelColor=0C0716" alt="Site">
+  </a>
+  <a href="https://prezi.com/view/JQSHxY38j4XtUce8BGB4/?referral_token=ONzGYFlnB3FN" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20Slides%20da%20Apresentação-641838?style=for-the-badge&logo=prezi&logoColor=white" alt="Slides">
+  </a>
+  <a href="https://www.figma.com/design/aUXInFY6s0Kp81VnPQmI1H/prototipo?node-id=0-1&t=HmDBRhPAt5RvLBSk-1" target="_blank">
+    <img src="https://img.shields.io/badge/🎨%20Protótipo%20no%20Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
   <a href="https://github.com/Breno-J-Oliveira" target="_blank">
-    <img src="https://img.shields.io/badge/Código%20no-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Código%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 <p align="center">
-  <sub>👆 <em>Clique no botão dourado para abrir a plataforma ARQON — THE VAULT no navegador.</em></sub>
-</p>
-
----
-
-## 📑 Índice
-
-1. [Acesso ao Site Online](#-acesso-ao-site-online)
-2. [Contexto Acadêmico do Projeto](#-contexto-acadêmico-do-projeto)
-3. [Sobre o Projeto](#-sobre-o-projeto)
-4. [Demonstração e Capturas de Tela](#-demonstração-e-capturas-de-tela)
-5. [Stack Tecnológico Completo](#-stack-tecnológico-completo)
-6. [Arquitetura do Sistema](#-arquitetura-do-sistema)
-7. [Funcionalidades Completas](#-funcionalidades-completas)
-8. [Telas / Páginas do Sistema](#-telas--páginas-do-sistema)
-9. [API RESTful — Todas as Rotas](#-api-restful--todas-as-rotas)
-10. [Controllers, Models e Middlewares](#-controllers-models-e-middlewares)
-11. [Banco de Dados](#-banco-de-dados)
-12. [Sistema de Autenticação e Níveis de Acesso](#-sistema-de-autenticação-e-níveis-de-acesso)
-13. [Sistema de Tema Dinâmico](#-sistema-de-tema-dinâmico)
-14. [Estrutura de Pastas](#-estrutura-de-pastas)
-15. [Instalação e Configuração](#-instalação-e-configuração)
-16. [Deploy no InfinityFree](#-deploy-no-infinityfree)
-17. [Segurança](#-segurança)
-18. [Paleta de Cores e Identidade Visual](#-paleta-de-cores-e-identidade-visual)
-19. [Equipe](#-equipe)
-20. [Contatos](#-contatos)
-
----
-
-## 🌐 Acesso ao Site Online
-
-A plataforma está hospedada gratuitamente no **InfinityFree**. Clique no botão abaixo para acessar:
-
-<p align="center">
-  <a href="https://SEU-SITE.infinityfreeapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/🔓%20ENTRAR%20NO%20COFRE%20ARQON-E7B93F?style=for-the-badge&logoColor=000000&labelColor=0C0716" alt="Entrar no site" height="50">
-  </a>
+  <sub>👆 <em>Clique nos botões para acessar o site, slides, protótipo e repositório da ARQON.</em></sub>
 </p>
 
 | Item | Valor |
 |---|---|
-| **URL do Site** | `https://arquon.infinityfree.io/index.html` |
+| **URL do Site** | `http://arquon.infinityfree.io/` |
 | **Hospedagem** | InfinityFree (PHP + MySQL gratuito) |
 | **Login Admin** | `admin@arqon.com` / `admin123` |
 | **Login Membro** | `user@arqon.com` / `user123` |
 
 ---
 
+## 📑 Índice
+
+1. [Contexto Acadêmico](#-contexto-acadêmico-do-projeto)
+2. [Planejamento e Sprints](#-planejamento-e-sprints)
+3. [Protótipo no Figma](#-protótipo-no-figma)
+4. [Sobre o Projeto](#-sobre-o-projeto)
+5. [Demonstração e Capturas de Tela](#-demonstração-e-capturas-de-tela)
+6. [Stack Tecnológico Completo](#-stack-tecnológico-completo)
+7. [Arquitetura do Sistema](#-arquitetura-do-sistema)
+8. [Funcionalidades Completas](#-funcionalidades-completas)
+9. [Telas / Páginas do Sistema](#-telas--páginas-do-sistema)
+10. [API RESTful — Todas as Rotas](#-api-restful--todas-as-rotas)
+11. [Controllers, Models e Middlewares](#-controllers-models-e-middlewares)
+12. [Banco de Dados](#-banco-de-dados)
+13. [Sistema de Autenticação e Níveis de Acesso](#-sistema-de-autenticação-e-níveis-de-acesso)
+14. [Sistema de Tema Dinâmico](#-sistema-de-tema-dinâmico)
+15. [Estrutura de Pastas](#-estrutura-de-pastas)
+16. [Segurança](#-segurança)
+17. [Paleta de Cores e Identidade Visual](#-paleta-de-cores-e-identidade-visual)
+18. [Equipe e Orientadores](#-equipe-e-orientadores)
+19. [Contatos](#-contatos)
+
+---
+
 ## 🎓 Contexto Acadêmico do Projeto
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJETO-2º%20TERMO-E7B93F?style=for-the-badge&labelColor=0C0716" alt="Projeto 2º Termo">
-  <img src="https://img.shields.io/badge/SEMESTRE-1º%20SEM%2F2025-FFD700?style=for-the-badge&labelColor=0C0716" alt="1º Semestre 2025">
-  <img src="https://img.shields.io/badge/TEMA-ALUGUEL%20DE%20ROUPAS-00C853?style=for-the-badge&labelColor=0C0716" alt="Tema: Aluguel de Roupas">
+  <img src="https://img.shields.io/badge/PROJETO-2º%20TERMO-E7B93F?style=for-the-badge&labelColor=0C0716">
+  <img src="https://img.shields.io/badge/SEMESTRE-1º%20SEM%2F2025-FFD700?style=for-the-badge&labelColor=0C0716">
+  <img src="https://img.shields.io/badge/TEMA-ALUGUEL%20DE%20ROUPAS-00C853?style=for-the-badge&labelColor=0C0716">
+  <img src="https://img.shields.io/badge/CURSO-TEC.%20DESENVOLVIMENTO%20DE%20SISTEMAS-641838?style=for-the-badge&labelColor=0C0716">
 </p>
 
-Este projeto foi desenvolvido como atividade acadêmica do **2º Termo — 1º Semestre de 2025**, em parceria fictícia com a **ABC Technology**. O desafio propõe criar soluções de **personalização e consumo sob demanda** dentro de cinco temas possíveis (aluguel de imóveis, vagas temporárias, **aluguel de roupas**, decoração de eventos e streaming).
+Este projeto foi desenvolvido como atividade acadêmica do **2º Termo — 1º Semestre de 2025** no curso **Técnico em Desenvolvimento de Sistemas** do **SENAI "A. Jacob Lafer"**, em parceria fictícia com a **ABC Technology**. O desafio propõe criar soluções de **personalização e consumo sob demanda** dentro de cinco temas possíveis.
 
 A equipe escolheu o tema **Aluguel de Roupas**, dando origem ao **ARQON — THE VAULT**: uma locadora digital de roupas e artefatos de luxo, facilitando o acesso a peças premium para ocasiões especiais sem a necessidade de compra.
 
-### Contexto do Desafio
-
-Vivemos em uma era onde a **personalização e a flexibilidade** transformam a forma de consumir produtos e serviços. Modelos como benefícios flexíveis e a locação flexível (*flex stay*) mostram a busca por soluções adaptáveis às necessidades individuais. O objetivo do projeto é desenvolver soluções inovadoras que tornem esses serviços mais **acessíveis, intuitivos e alinhados às tendências de mercado**, dando ao usuário mais controle, liberdade e opções.
-
-### Requisitos da Aplicação (Locadora) — Atendimento
+### Requisitos da Aplicação — Atendimento
 
 | Requisito da Atividade | Status | Como foi atendido no ARQON |
 |---|---|---|
-| Autenticação com 2 perfis (admin e usuário) | ✅ | Sistema com perfis `MEMBER` (usuário) e `TOTAL_CONTROL` (admin), além de níveis extras |
+| Autenticação com 2 perfis (admin e usuário) | ✅ | Perfis `MEMBER` e `TOTAL_CONTROL`, além de níveis extras |
 | Cadastro de itens (admin) | ✅ | CRUD de produtos com upload de imagens no painel admin |
 | Aluguel de item (com cálculo por dias) | ✅ | Carrinho + checkout com cálculo de diária e caução |
 | Devolução de item | ✅ | Fluxo de devolução e atualização de status da locação |
@@ -119,26 +109,61 @@ Vivemos em uma era onde a **personalização e a flexibilidade** transformam a f
 | Interface responsiva | ✅ | Layout responsivo para desktop, tablet e mobile |
 | Tela de Login com mensagens de erro | ✅ | `login.html` com validação e feedback |
 | Barra superior "Bem-vindo, [usuário]" + Sair | ✅ | Header dinâmico para usuário logado |
-| Persistência de dados | ✅ | Implementada com **MySQL + PDO** para máxima robustez e segurança |
+| Persistência de dados | ✅ | MySQL + PDO |
 | Validação de dados de entrada / segurança | ✅ | Prepared statements, Argon2id, JWT, rate limiting, CORS |
-
-O projeto adota **MySQL/PDO** como camada de persistência, combinado com um **Design System CSS proprietário** e **Font Awesome**, elevando segurança, escalabilidade e qualidade visual além dos requisitos mínimos estabelecidos.
 
 ### Entregas por Sprint
 
 | Sprint | Entregáveis | Status |
 |---|---|---|
 | **Sprint 1** | Planejamento, requisitos, cronograma, identidade visual (logo e cores), protótipo de alta fidelidade no Figma | ✅ Concluída |
-| **Sprint 2** | Construção do front-end com base na prototipagem + modelagem de dados | ✅ Concluída |
+| **Sprint 2** | Front-end com base na prototipagem + modelagem de dados + Bootstrap | ✅ Concluída |
 | **Sprint 3** | Back-end completo com o website funcional + relatório técnico (ABNT) + apresentação | ✅ Concluída |
 
-### Critérios de Avaliação Atendidos
+---
 
-- **Funcionalidade** — todos os requisitos implementados e funcionando.
-- **Usabilidade** — interface intuitiva e navegação fluida (SPA-like).
-- **Estética** — design premium, responsivo e coeso.
-- **Qualidade do Código** — arquitetura MVC organizada (Controllers, Models, Middlewares).
-- **Segurança** — autenticação JWT, hash Argon2id, prepared statements e validação de entrada.
+## 📋 Planejamento e Sprints
+
+O planejamento foi estruturado com **ClickUp** para gerenciamento de tarefas e prazos, e o backlog foi documentado em planilha colaborativa.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/28151195/Sprint_Backlog_SENAI.1.xlsx">
+    <img src="https://img.shields.io/badge/📥%20Baixar%20Sprint%20Backlog-E7B93F?style=for-the-badge&labelColor=0C0716" alt="Sprint Backlog">
+  </a>
+</p>
+
+### Sprint 1 — Planejamento e Identidade Visual
+
+Definição de requisitos, identidade visual, estrutura inicial e protótipo de alta fidelidade no Figma. Contempla cinco páginas principais: Login, Cadastro de Marcas Parceiras, Cadastro de Peças, Painel Administrativo e Listagem de Produtos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4cb2cdc-9a7c-4db3-a560-abcd1ac1295b" width="700" alt="Cronograma Sprint 1">
+</p>
+
+### Sprint 2 e 3 — Construção e Entrega
+
+Implementação do front-end com Bootstrap, modelagem de dados, desenvolvimento do back-end em PHP, integração com MySQL e entrega final com relatório técnico e apresentação.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cb0f4f8-6bfe-4dc4-8f1d-b188c9e72408" width="700" alt="Cronograma Sprint 2 e 3">
+</p>
+
+---
+
+## 🎨 Protótipo no Figma
+
+O protótipo de alta fidelidade foi desenvolvido no Figma, simulando a navegação completa do sistema antes da implementação.
+
+<p align="center">
+  <a href="https://www.figma.com/design/aUXInFY6s0Kp81VnPQmI1H/prototipo?node-id=0-1&t=HmDBRhPAt5RvLBSk-1" target="_blank">
+    <img src="https://img.shields.io/badge/🎨%20Acessar%20Protótipo%20Completo-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0C0716" height="45" alt="Figma">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfabacf3-746c-4005-96e5-9b842bca9028" width="380" alt="Login Desktop">
+  <img src="https://github.com/user-attachments/assets/1477d3a9-c656-4aad-a42e-62285049e0e7" width="200" alt="Login Mobile">
+</p>
 
 ---
 
@@ -146,12 +171,12 @@ O projeto adota **MySQL/PDO** como camada de persistência, combinado com um **D
 
 **ARQON — THE VAULT** é uma plataforma web completa de **locação de roupas e artefatos de luxo sustentáveis**. O conceito central é tratar cada peça como um artefato exclusivo guardado em um cofre digital, oferecendo ao usuário uma experiência de aluguel sofisticada, segura e fluida.
 
-O projeto é um **full-stack monolítico** construído sem frameworks pesados: um back-end em **PHP 8.2 puro** organizado em arquitetura MVC com roteador central, e um front-end em **HTML5 + CSS3 + JavaScript ES6+** com componentes modulares carregados dinamicamente, simulando uma navegação SPA-like.
+O projeto é um **full-stack monolítico** construído sem frameworks pesados: back-end em **PHP 8.2 puro** com arquitetura MVC e roteador central, e front-end em **HTML5 + CSS3 + JavaScript ES6+** com componentes modulares carregados dinamicamente, simulando uma navegação SPA-like.
 
 ### Pilares do Projeto
 
 - **Design Dark Luxury** — identidade visual premium, escura e dourada.
-- **Tema dinâmico global** — 8 presets de cores configuráveis pelo admin, aplicados em todo o site via CSS Variables.
+- **Tema dinâmico global** — 8 presets de cores configuráveis pelo admin via CSS Variables.
 - **Experiência responsiva** — adaptável a desktop, tablet e mobile.
 - **Segurança robusta** — JWT, Argon2id, prepared statements, rate limiting e CORS controlado.
 - **Arquitetura modular** — controllers e models independentes, fácil de escalar.
@@ -165,12 +190,16 @@ O projeto é um **full-stack monolítico** construído sem frameworks pesados: u
   <img src="./capturas/home.png" alt="Home ARQON" width="800">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a58ae6f6-6a47-42c7-8a0a-f7f477394557" width="700" alt="Página Principal">
+</p>
+
 ### 🛍 Catálogo / Filtros
 <p align="center">
   <img src="./capturas/catalogo.png" alt="Catálogo" width="800">
 </p>
 
-### 👔 Página Masculino / Feminino
+### 👔 Páginas Masculino / Feminino
 <p align="center">
   <img src="./capturas/masculino.png" alt="Masculino" width="400">
   <img src="./capturas/feminino.png" alt="Feminino" width="400">
@@ -224,47 +253,48 @@ O projeto é um **full-stack monolítico** construído sem frameworks pesados: u
 
 <p align="center"><strong>Linguagens & Core</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <p align="center"><strong>Banco de Dados & Servidor</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-10.6+-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/PDO-Native-8993BE?style=for-the-badge&logo=php&logoColor=white" alt="PDO">
-  <img src="https://img.shields.io/badge/Apache-2.4-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-  <img src="https://img.shields.io/badge/phpMyAdmin-DB%20Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-10.6+-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/PDO-Native-8993BE?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache-2.4-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/phpMyAdmin-DB%20Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </p>
 
 <p align="center"><strong>Segurança</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Argon2id-Hash-512BD4?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Argon2id">
-  <img src="https://img.shields.io/badge/CORS-Controlado-FF6F00?style=for-the-badge" alt="CORS">
-  <img src="https://img.shields.io/badge/Rate%20Limiting-Anti%20Brute--Force-E53935?style=for-the-badge" alt="Rate Limiting">
+  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Argon2id-Hash-512BD4?style=for-the-badge&logo=letsencrypt&logoColor=white">
+  <img src="https://img.shields.io/badge/CORS-Controlado-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rate%20Limiting-Anti%20Brute--Force-E53935?style=for-the-badge">
 </p>
 
 <p align="center"><strong>Bibliotecas Front-end</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Chart.js-4.x-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
-  <img src="https://img.shields.io/badge/Leaflet.js-1.9+-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet">
-  <img src="https://img.shields.io/badge/Cropper.js-1.6+-35495E?style=for-the-badge" alt="Cropper.js">
-  <img src="https://img.shields.io/badge/Font%20Awesome-6.4-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome">
-  <img src="https://img.shields.io/badge/Google%20Fonts-Tipografia-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts">
+  <img src="https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Chart.js-4.x-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Leaflet.js-1.9+-199900?style=for-the-badge&logo=leaflet&logoColor=white">
+  <img src="https://img.shields.io/badge/Cropper.js-1.6+-35495E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Font%20Awesome-6.4-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
 </p>
 
 <p align="center"><strong>Ferramentas & Ambiente</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/XAMPP-Dev%20Env-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
-  <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/InfinityFree-Hospedagem-29ABE2?style=for-the-badge&logo=icloud&logoColor=white" alt="InfinityFree">
+  <img src="https://img.shields.io/badge/XAMPP-Dev%20Env-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickUp-Gestão-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+  <img src="https://img.shields.io/badge/InfinityFree-Hospedagem-29ABE2?style=for-the-badge&logo=icloud&logoColor=white">
 </p>
 
 ### ⚙ Back-end
@@ -283,8 +313,9 @@ O projeto é um **full-stack monolítico** construído sem frameworks pesados: u
 | Tecnologia | Uso no Projeto |
 |---|---|
 | **HTML5 semântico** | 12 páginas + 4 componentes modulares |
-| **CSS3** | Design System Dark Luxury, CSS Variables, Grid, Flexbox, `@keyframes`, media queries responsivas |
+| **CSS3** | Design System Dark Luxury, CSS Variables, Grid, Flexbox, `@keyframes`, media queries |
 | **JavaScript ES6+** | Fetch API, async/await, módulos IIFE, manipulação de DOM, `localStorage` |
+| **Bootstrap 5** | Componentes responsivos, grid e utilitários |
 | **Chart.js 4.x** | Gráficos de métricas no dashboard admin |
 | **Leaflet.js 1.9+** | Mapa interativo de logística |
 | **Cropper.js 1.6+** | Corte/redimensionamento de avatar e imagens de produto |
@@ -303,16 +334,6 @@ O projeto é um **full-stack monolítico** construído sem frameworks pesados: u
 |---|---|
 | **Font Awesome 6.4** | Ícones vetoriais (carrinho, usuário, coração, busca) |
 | **Google Fonts** | Be Vietnam Pro, Cormorant Garamond, Josefin Sans, Cinzel, Inter |
-
-### 🛠 Ferramentas de Desenvolvimento
-| Ferramenta | Uso |
-|---|---|
-| **XAMPP** | Ambiente local (Apache + PHP + MySQL) |
-| **Git & GitHub** | Versionamento e hospedagem do código |
-| **VS Code** | Editor de código |
-| **Figma** | Prototipação e design da interface |
-| **phpMyAdmin** | Administração do banco de dados |
-| **InfinityFree** | Hospedagem online (PHP + MySQL gratuito) |
 
 ---
 
@@ -343,9 +364,9 @@ O sistema segue uma arquitetura **MVC com roteador central**:
 **Fluxo de uma requisição:**
 1. O front-end faz uma chamada `fetch()` para `/PROJETO-ARQUON/index.php/api/...`.
 2. O `.htaccess` redireciona tudo para `index.php`.
-3. O roteador extrai a URI (`api/...`), aplica CORS e despacha via `switch`.
+3. O roteador extrai a URI, aplica CORS e despacha via `switch`.
 4. Rotas protegidas passam pelo `AuthMiddleware` que valida o JWT.
-5. O Controller processa, chama o Model correspondente.
+5. O Controller processa e chama o Model correspondente.
 6. O Model executa queries PDO no MySQL e retorna dados.
 7. A resposta é serializada em JSON e devolvida ao front.
 
@@ -368,7 +389,7 @@ O sistema segue uma arquitetura **MVC com roteador central**:
 - Páginas dedicadas: **Masculino**, **Feminino** e **Catálogo Geral**.
 - Busca universal (`/api/search`) por produtos, categorias e marcas.
 - Paginação / load more e lazy loading de imagens.
-- Filtros dinâmicos alimentados por metadados (`/api/marcas`, `/api/categorias`, `/api/estilos`, `/api/cores`).
+- Filtros dinâmicos alimentados por metadados.
 
 ### 3. Página de Detalhes do Produto (PDP)
 - Galeria de imagens com miniaturas.
@@ -452,7 +473,7 @@ O sistema segue uma arquitetura **MVC com roteador central**:
 
 ## 🔌 API RESTful — Todas as Rotas
 
-Base: `http://localhost/PROJETO-ARQUON/index.php/api`
+Base: `http://arquon.infinityfree.io/index.php/api`
 
 ### 🔐 Autenticação
 | Método | Rota | Descrição |
@@ -625,18 +646,19 @@ Base: `http://localhost/PROJETO-ARQUON/index.php/api`
 
 ## 🗄 Banco de Dados
 
-Banco MySQL `arqon` (InnoDB, utf8mb4) organizado em **7 módulos** com 30+ tabelas. Schema completo em `docs/banco_arquon.sql` e diagrama em `docs/Mapa_Banco_arquon.png`.
+Banco MySQL `arqon` (InnoDB, utf8mb4) organizado em **7 módulos** com 30+ tabelas. Schema completo em `docs/banco_arquon.sql`.
 
 ### Diagrama do Banco de Dados
 
 <p align="center">
-  <!-- Substitua pelo caminho real da foto digitalizada do banco -->
-  <img src="./docs/foto_banco.jpg" alt="Foto do Banco de Dados (físico)" width="400">
-  <!-- Substitua pelo caminho real do diagrama digital -->
-  <img src="./docs/Mapa_Banco_arquon.png" alt="Diagrama Digital do Banco de Dados" width="400">
+  <img src="./docs/foto_banco.jpg" alt="Banco de Dados Físico" width="400">
+  <img src="./docs/Mapa_Banco_arquon.png" alt="Diagrama Digital" width="400">
 </p>
 
-> Coloque a foto física do banco no caminho `docs/foto_banco.jpg` e o diagrama digital em `docs/Mapa_Banco_arquon.png`.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/089a17f1-6bde-40c8-8f7a-069a8e443483" width="300" alt="Modelagem 1">
+  <img src="https://github.com/user-attachments/assets/0f581934-c322-457d-a2f6-7f5391d0a711" width="300" alt="Modelagem 2">
+</p>
 
 ### Módulo 1 — IAM (Identidade e Acessos)
 `niveis_acesso`, `usuarios`, `usuarios_enderecos`, `fornecedores`, `api_keys`
@@ -661,8 +683,6 @@ Banco MySQL `arqon` (InnoDB, utf8mb4) organizado em **7 módulos** com 30+ tabel
 
 ### Tabelas Complementares
 `carrinho_temp`, `avaliacoes`, `cupons`, `configuracoes_tema`, `password_resets`, `login_attempts`, `fidelidade`, `notificacoes`, `contatos`, `celebridades`, `celebridade_produtos`, `colecoes`, `colecao_produtos`
-
-A coluna de imagem do produto é `foto_url` (apenas o nome do arquivo). As imagens ficam em `public/uploads/` e são prefixadas no front-end com `/PROJETO-ARQUON/public/uploads/`.
 
 ---
 
@@ -689,16 +709,9 @@ O sistema usa **JWT (HS256)** stateless. O token carrega `id_usuario`, `email` e
 
 ## 🎨 Sistema de Tema Dinâmico
 
-O tema é carregado por `public/scripts/theme-loader.js`, que busca as configurações via `/api/tema` (tabela `configuracoes_tema`) e aplica como **CSS Variables** no `:root`. Cobre **12 páginas** e **4 componentes**.
+O tema é carregado por `public/scripts/theme-loader.js`, que busca as configurações via `/api/tema` e aplica como **CSS Variables** no `:root`. Cobre 12 páginas e 4 componentes.
 
-**Fluxo:**
-1. Busca o tema da API via `fetch()`.
-2. Normaliza dados (array ou objeto).
-3. Aplica CSS Variables em `document.documentElement`.
-4. Converte a cor primária para RGB (`--theme-primary-rgb`).
-5. Atualiza a meta tag `theme-color` (mobile).
-6. Injeta CSS dinâmico para elementos com cores hardcoded.
-7. Faz fallback para `localStorage` se a API falhar.
+**Fluxo:** busca o tema da API → aplica CSS Variables → converte cor primária para RGB → atualiza `theme-color` mobile → injeta CSS dinâmico → fallback para `localStorage`.
 
 ### 8 Presets
 | Preset | Cor Primária | Fundo | Estilo |
@@ -779,6 +792,7 @@ PROJETO-ARQUON/
 |---|---|---|
 | **Dourado ARQON** | `#E7B93F` | Cor primária, destaques, CTAs |
 | **Dourado Claro** | `#F5D76E` | Hover, brilho |
+| **Primária Escura** | `#641838` | Cor secundária premium |
 | **Void / Fundo** | `#0A0A10` | Fundo máximo |
 | **Dark** | `#0C0716` | Fundo de seções |
 | **Texto** | `#F2EDE8` | Texto principal |
@@ -788,7 +802,9 @@ PROJETO-ARQUON/
 
 ---
 
-## 👥 Equipe
+## 👥 Equipe e Orientadores
+
+### Time de Desenvolvimento
 
 | Nome | Função | E-mail |
 |---|---|---|
@@ -798,6 +814,17 @@ PROJETO-ARQUON/
 | Rafaela Oliveira | Product Owner | rafaelacristina1510.oliveira@gmail.com |
 | Vitor Canali | Desenvolvedor | vitorcanali67@gmail.com |
 | Felipe Heitor | Desenvolvedor | felipeheitor@gmail.com |
+
+### Orientadores
+
+| Nome | Papel |
+|---|---|
+| Prof. Raul Lopes | Orientador Técnico |
+| Prof. Paulo Camargo | Orientador de Projeto |
+
+<p align="center">
+  <sub>Projeto desenvolvido para o curso <strong>Técnico em Desenvolvimento de Sistemas</strong> — SENAI "A. Jacob Lafer" — 2026</sub>
+</p>
 
 ---
 
@@ -822,4 +849,8 @@ PROJETO-ARQUON/
 
 <p align="center">
   <strong>"A ARQON não é uma loja. É um cofre. Cada peça é um artefato. Cada aluguel é uma experiência."</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦%20ARQON%20—%20THE%20VAULT%20✦-E7B93F?style=for-the-badge&labelColor=0C0716" alt="ARQON">
 </p>
